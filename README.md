@@ -78,11 +78,9 @@ Dentwise is built on a streamlined, modern web stack, utilizing a Component-base
 
 | Technology | Category | Purpose | Why it was Chosen |
 | :--- | :--- | :--- | :--- |
-| **React** | Frontend Framework | Building the highly interactive and declarative user interfaces. | Known for its performance, mature ecosystem, and strong community support for building complex Single-Page Application (SPA) functionality. |
+| **Next** | Frontend Framework | Building the highly interactive and declarative user interfaces. | Known for its performance, mature ecosystem, and strong community support for building complex Single-Page Application (SPA) functionality. |
 | **TypeScript** | Language | Enhancing code quality, type safety, and developer experience. | Essential for scalable applications, providing early detection of errors and improved refactoring capabilities across the codebase. |
 | **Component-based Architecture** | Architectural Pattern | Ensuring modularity, reusability, and separation of concerns. | Facilitates rapid development, easier maintenance, and simplifies collaboration across large teams. |
-| **None Detected** | Backend/Server | N/A | The core focus is on delivering a powerful, interactive frontend experience. |
-| **None Detected** | Database/Data Layer | N/A | The current verifiable functionality focuses purely on the interactive UI layer. |
 
 ### Architectural Design Philosophy
 
